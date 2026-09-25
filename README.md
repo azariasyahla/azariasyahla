@@ -4,9 +4,9 @@
 
 <div align="center">
 
-### Hi, I'm Syahla! 👋🏻
+### Hi, I'm Syahla! ‧₊˚ ☁️⋅♡🪐༘⋆👋🏻
 
-**Data Analyst · Data Scientist · Turning data into meaningful decisions**
+**Data Analyst 🌸 Data Scientist 🌸 Turning data into meaningful decisions**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Azaria%20Syahla-18205D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azariasyahla/)
 [![Instagram](https://img.shields.io/badge/Instagram-@azariasyahla-EF7F9A?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/azariasyahla/)
