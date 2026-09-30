@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./syahla-github-animated-banner.gif" alt="Hi, I'm Syahla — animated butterfly banner" width="100%" />
+  <img src="./syahla-butterfly-transparent.svg" alt="Hi, I'm Syahla — transparent animated butterfly banner" width="100%" />
 </div>
 
 <div align="center">
@@ -18,39 +18,40 @@ experience in analytics, machine learning, demand forecasting, inventory
 planning, OCR validation, recommendation systems, and retrieval-augmented
 generation preparation.
 
-- Currently exploring **supply-chain analytics and demand forecasting**
-- Building **D-PRIME**, a predictive replenishment and inventory decision engine
-- Researched semantic segmentation for rice-leaf disease identification
-- Interested in turning complex data into clear, useful, and human-friendly decisions
-- I believe good analysis should be accurate, explainable, and beautiful
+- 📊 Currently exploring **supply-chain analytics and demand forecasting**
+- 📦 Building **D-PRIME**, a predictive replenishment and inventory decision engine
+- 🌾 Researched semantic segmentation for rice-leaf disease identification
+- 💡 Interested in turning complex data into clear, useful, and human-friendly decisions
+- ✨ I believe good analysis should be accurate, explainable, and beautiful
 
-## Experience Highlights
+## 💼 Experience Highlights
 
 | Role | Focus |
 |---|---|
-| **Data Analyst Intern — PT Traktor Nusantara (Astra International Tbk & Sumitomo Group)** | Spare-parts demand forecasting, inventory analysis, replenishment recommendations, and interactive dashboards |
+| **Data Analyst Intern — PT Traktor Nusantara** | Spare-parts demand forecasting, inventory analysis, replenishment recommendations, and interactive dashboards |
 | **Data Scientist Intern — BPPK, Ministry of Finance** | OCR data-quality validation, automated pipelines, embedding evaluation, RAG preparation, and recommendation systems |
 
-## Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-18205D?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Pandas](https://img.shields.io/badge/Pandas-EF7F9A?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-435991?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F28C63?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-18205D?style=for-the-badge&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-EF4B5F?style=for-the-badge&logo=streamlit&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-F28C63?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-FFD43B?style=for-the-badge&logo=powerbi&logoColor=18205D)
-![Git](https://img.shields.io/badge/Git-EF7F9A?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-18205D?style=for-the-badge&logo=github&logoColor=white)
-
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="44" height="44" /></a>&nbsp;
+  <a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" width="44" height="44" /></a>&nbsp;
+  <a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" width="44" height="44" /></a>&nbsp;
+  <a href="https://scikit-learn.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="44" height="44" /></a>&nbsp;
+  <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="44" height="44" /></a>&nbsp;
+  <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="44" height="44" /></a>&nbsp;
+  <a href="https://opencv.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" alt="OpenCV" width="44" height="44" /></a>&nbsp;
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="44" height="44" /></a>&nbsp;
+  <a href="https://streamlit.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="44" height="44" /></a>&nbsp;
+  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="44" height="44" /></a>&nbsp;
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="44" height="44" /></a>
 </div>
 
-## Featured Work
+<br />
 
-### D-PRIME
+## 🚀 Featured Work
+
+### 📦 D-PRIME
 
 **Demand Forecasting-Driven Predictive Replenishment & Inventory Management Engine**
 
@@ -64,7 +65,7 @@ Streamlit dashboard.
 > The production repository is private because operational company data and
 > internal business logic are protected.
 
-### Rice Leaf Disease Semantic Segmentation
+### 🌾 Rice Leaf Disease Semantic Segmentation
 
 Evaluated **U-Net, PSPNet, and DeepLabV3+** for identifying diseased regions
 on rice leaves. DeepLabV3+ achieved the strongest segmentation performance,
@@ -73,10 +74,6 @@ with an IoU of **0.9235** and pixel accuracy of **0.9804**.
 [Read the published article](https://ejournal.unesa.ac.id/index.php/rapids/article/view/78173)
 
 `Computer Vision` · `Semantic Segmentation` · `Deep Learning` · `TensorFlow` · `PyTorch`
-
-### EduDOExam
-
-I collaborated on **EduDOExam**, an online exam platform developed as a team project. Explore [my fork of the backend repository](https://github.com/azariasyahla/EduDoexam-backend), originally maintained by [il4mb](https://github.com/il4mb/EduDoexam-backend).
 
 ## 📈 GitHub Activity
 

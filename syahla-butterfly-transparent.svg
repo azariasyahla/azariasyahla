@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" role="img" aria-labelledby="title desc">
+<title id="title">Hi, I'm Syahla</title><desc id="desc">Animated text and a pastel butterfly on a transparent background.</desc>
+<style>
+.title{font:600 47px ui-monospace,SFMono-Regular,Consolas,monospace;fill:#b65f91}.subtitle{font:500 19px ui-monospace,SFMono-Regular,Consolas,monospace;fill:#876582}.wing{transform-origin:center;animation:flutter 2.6s ease-in-out infinite alternate}.left{transform-origin:400px 161px;animation:fl 1.8s ease-in-out infinite alternate}.right{transform-origin:400px 161px;animation:fr 1.8s ease-in-out infinite alternate}.spark{animation:glow 2s ease-in-out infinite alternate}@keyframes fl{to{transform:scaleX(.78) rotate(-5deg)}}@keyframes fr{to{transform:scaleX(.78) rotate(5deg)}}@keyframes glow{to{opacity:.25}}@media(prefers-color-scheme:dark){.title{fill:#f7b8dc}.subtitle{fill:#dcc2ee}}
+</style>
+<text x="400" y="75" text-anchor="middle" class="title">hi, i'm syahla</text>
+<text x="400" y="107" text-anchor="middle" class="subtitle">data analyst · data scientist</text>
+<g class="left"><path d="M397 160 C349 111 320 125 343 158 C314 174 345 210 396 171 Z" fill="#ef8abc"/><path d="M391 165 C356 167 347 196 386 194 L399 169 Z" fill="#bba0e6"/><circle cx="361" cy="151" r="5" fill="#ffe4a7"/></g>
+<g class="right"><path d="M403 160 C451 111 480 125 457 158 C486 174 455 210 404 171 Z" fill="#ef8abc"/><path d="M409 165 C444 167 453 196 414 194 L401 169 Z" fill="#bba0e6"/><circle cx="439" cy="151" r="5" fill="#ffe4a7"/></g>
+<path d="M399 144 Q392 131 387 132 M401 144 Q408 131 413 132" fill="none" stroke="#6f5683" stroke-width="2" stroke-linecap="round"/><ellipse cx="400" cy="163" rx="5" ry="24" fill="#ffcf78"/>
+<g fill="#f6bc70" class="spark"><path d="M285 161v12m-6-6h12M518 145v12m-6-6h12M494 198v8m-4-4h8M308 207v8m-4-4h8" stroke="#f6bc70" stroke-width="2" stroke-linecap="round"/></g>
+</svg>
