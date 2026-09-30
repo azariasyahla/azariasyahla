@@ -4,9 +4,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/azariasyahla/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="32" height="32" /></a>
-[![Instagram](https://img.shields.io/badge/Instagram-@azariasyahla-EF7F9A?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/azariasyahla/)
-<a href="https://www.kaggle.com/azariasyahla/"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" alt="Kaggle" width="32" height="32" /></a>
+[LinkedIn](https://www.linkedin.com/in/azariasyahla/) · [Instagram](https://www.instagram.com/azariasyahla/) · [Kaggle](https://www.kaggle.com/azariasyahla/)
 
 </div>
 
@@ -82,12 +80,6 @@ with an IoU of **0.9235** and pixel accuracy of **0.9804**.
   <a href="https://github.com/azariasyahla"><img height="165" src="https://github-readme-stats.vercel.app/api?username=azariasyahla&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent&amp;title_color=EF7F9A&amp;icon_color=EF7F9A&amp;text_color=435991" alt="Syahla's GitHub statistics" /></a>
   <a href="https://github.com/azariasyahla?tab=repositories"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azariasyahla&amp;layout=compact&amp;hide_border=true&amp;theme=transparent&amp;title_color=EF7F9A&amp;text_color=435991" alt="Syahla's most used repository languages" /></a>
 </div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nyzheng/dino/main/dino.gif" alt="Animated pixel dinosaur running" width="560" />
-</div>
-
-<sub>Animated dinosaur: <a href="https://github.com/nyzheng/dino">nyzheng/dino</a>.</sub>
 
 <div align="center">
 
