@@ -4,34 +4,35 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Azaria%20Syahla-18205D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azariasyahla/)
+<a href="https://www.linkedin.com/in/azariasyahla/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="32" height="32" /></a>
 [![Instagram](https://img.shields.io/badge/Instagram-@azariasyahla-EF7F9A?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/azariasyahla/)
+<a href="https://www.kaggle.com/azariasyahla/"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" alt="Kaggle" width="32" height="32" /></a>
 
 </div>
 
 ---
 
-##  About Me 🌷
+## 🌷 About Me
 
 I'm a Data Science graduate from **Universitas Negeri Surabaya** with hands-on
 experience in analytics, machine learning, demand forecasting, inventory
 planning, OCR validation, recommendation systems, and retrieval-augmented
 generation preparation.
 
--  Currently exploring **supply-chain analytics and demand forecasting**
--  Building **D-PRIME**, a predictive replenishment and inventory decision engine
--  Researched semantic segmentation for rice-leaf disease identification
--  Interested in turning complex data into clear, useful, and human-friendly decisions
--  I believe good analysis should be accurate, explainable, and beautiful
+- 📊 Currently exploring **supply-chain analytics and demand forecasting**
+- 📦 Building **D-PRIME**, a predictive replenishment and inventory decision engine
+- 🌾 Researched semantic segmentation for rice-leaf disease identification
+- 💡 Interested in turning complex data into clear, useful, and human-friendly decisions
+- ✨ I believe good analysis should be accurate, explainable, and beautiful
 
-##  Experience Highlights
+## 💼 Experience Highlights
 
 | Role | Focus |
 |---|---|
 | **Data Analyst Intern — PT Traktor Nusantara** | Spare-parts demand forecasting, inventory analysis, replenishment recommendations, and interactive dashboards |
 | **Data Scientist Intern — BPPK, Ministry of Finance** | OCR data-quality validation, automated pipelines, embedding evaluation, RAG preparation, and recommendation systems |
 
-##  Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="44" height="44" /></a>&nbsp;
@@ -49,9 +50,9 @@ generation preparation.
 
 <br />
 
-##  Featured Work
+## 🚀 Featured Work
 
-###  D-PRIME
+### 📦 D-PRIME
 
 **Demand Forecasting-Driven Predictive Replenishment & Inventory Management Engine**
 
@@ -62,7 +63,10 @@ Streamlit dashboard.
 
 `Demand Forecasting` · `TSB` · `Random Forest` · `XGBoost` · `Inventory Analytics` · `Streamlit`
 
-###  Rice Leaf Disease Semantic Segmentation
+> The production repository is private because operational company data and
+> internal business logic are protected.
+
+### 🌾 Rice Leaf Disease Semantic Segmentation
 
 Evaluated **U-Net, PSPNet, and DeepLabV3+** for identifying diseased regions
 on rice leaves. DeepLabV3+ achieved the strongest segmentation performance,
@@ -74,7 +78,16 @@ with an IoU of **0.9235** and pixel accuracy of **0.9804**.
 
 ## 📈 GitHub Activity
 
-[Explore my repositories and contributions on GitHub](https://github.com/azariasyahla)
+<div align="center">
+  <a href="https://github.com/azariasyahla"><img height="165" src="https://github-readme-stats.vercel.app/api?username=azariasyahla&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent&amp;title_color=EF7F9A&amp;icon_color=EF7F9A&amp;text_color=435991" alt="Syahla's GitHub statistics" /></a>
+  <a href="https://github.com/azariasyahla?tab=repositories"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azariasyahla&amp;layout=compact&amp;hide_border=true&amp;theme=transparent&amp;title_color=EF7F9A&amp;text_color=435991" alt="Syahla's most used repository languages" /></a>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nyzheng/dino/main/dino.gif" alt="Animated pixel dinosaur running" width="560" />
+</div>
+
+<sub>Animated dinosaur: <a href="https://github.com/nyzheng/dino">nyzheng/dino</a>.</sub>
 
 <div align="center">
 
