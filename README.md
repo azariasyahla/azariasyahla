@@ -11,27 +11,27 @@
 
 ---
 
-## 🌷 About Me
+##  About Me 🌷
 
 I'm a Data Science graduate from **Universitas Negeri Surabaya** with hands-on
 experience in analytics, machine learning, demand forecasting, inventory
 planning, OCR validation, recommendation systems, and retrieval-augmented
 generation preparation.
 
-- 📊 Currently exploring **supply-chain analytics and demand forecasting**
-- 📦 Building **D-PRIME**, a predictive replenishment and inventory decision engine
-- 🌾 Researched semantic segmentation for rice-leaf disease identification
-- 💡 Interested in turning complex data into clear, useful, and human-friendly decisions
-- ✨ I believe good analysis should be accurate, explainable, and beautiful
+-  Currently exploring **supply-chain analytics and demand forecasting**
+-  Building **D-PRIME**, a predictive replenishment and inventory decision engine
+-  Researched semantic segmentation for rice-leaf disease identification
+-  Interested in turning complex data into clear, useful, and human-friendly decisions
+-  I believe good analysis should be accurate, explainable, and beautiful
 
-## 💼 Experience Highlights
+##  Experience Highlights
 
 | Role | Focus |
 |---|---|
 | **Data Analyst Intern — PT Traktor Nusantara** | Spare-parts demand forecasting, inventory analysis, replenishment recommendations, and interactive dashboards |
 | **Data Scientist Intern — BPPK, Ministry of Finance** | OCR data-quality validation, automated pipelines, embedding evaluation, RAG preparation, and recommendation systems |
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 <div align="center">
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="44" height="44" /></a>&nbsp;
@@ -49,9 +49,9 @@ generation preparation.
 
 <br />
 
-## 🚀 Featured Work
+##  Featured Work
 
-### 📦 D-PRIME
+###  D-PRIME
 
 **Demand Forecasting-Driven Predictive Replenishment & Inventory Management Engine**
 
@@ -65,7 +65,7 @@ Streamlit dashboard.
 > The production repository is private because operational company data and
 > internal business logic are protected.
 
-### 🌾 Rice Leaf Disease Semantic Segmentation
+###  Rice Leaf Disease Semantic Segmentation
 
 Evaluated **U-Net, PSPNet, and DeepLabV3+** for identifying diseased regions
 on rice leaves. DeepLabV3+ achieved the strongest segmentation performance,
