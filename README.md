@@ -78,6 +78,12 @@ with an IoU of **0.9235** and pixel accuracy of **0.9804**.
 
 I collaborated on **EduDOExam**, an online exam platform developed as a team project. Explore [my fork of the backend repository](https://github.com/azariasyahla/EduDoexam-backend), originally maintained by [il4mb](https://github.com/il4mb/EduDoexam-backend).
 
+### 🫀 Biomedical ECG Signal Analysis
+
+Explored ECG preprocessing and candidate R-peak detection using **MIT-BIH Arrhythmia Database record 100**. The notebook applies band-pass filtering, a moving average, and RR-based heart-rate estimation. This is an educational signal-processing project, not a clinical detector.
+
+`Biomedical Signal Processing` · `Python` · `SciPy` · `WFDB`
+
 ## 📈 GitHub Activity
 
 [Explore my repositories and contributions on GitHub](https://github.com/azariasyahla)
