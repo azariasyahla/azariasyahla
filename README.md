@@ -77,9 +77,11 @@ with an IoU of **0.9235** and pixel accuracy of **0.9804**.
 ## 📈 GitHub Activity
 
 <div align="center">
-  <a href="https://github.com/azariasyahla"><img height="165" src="https://github-readme-stats.vercel.app/api?username=azariasyahla&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent&amp;title_color=EF7F9A&amp;icon_color=EF7F9A&amp;text_color=435991" alt="Syahla's GitHub statistics" /></a>
-  <a href="https://github.com/azariasyahla?tab=repositories"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azariasyahla&amp;layout=compact&amp;hide_border=true&amp;theme=transparent&amp;title_color=EF7F9A&amp;text_color=435991" alt="Syahla's most used repository languages" /></a>
+  <a href="https://github.com/azariasyahla"><img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=azariasyahla&amp;theme=default&amp;title_color=E64A8C&amp;text_color=713D58&amp;bg_color=FFF1F6&amp;border_color=F5A9C8&amp;icon_color=E64A8C&amp;chart_color=F472B6" alt="Syahla's GitHub statistics" /></a>
+  <a href="https://github.com/azariasyahla?tab=repositories"><img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=azariasyahla&amp;theme=default&amp;title_color=E64A8C&amp;text_color=713D58&amp;bg_color=FFF1F6&amp;border_color=F5A9C8&amp;icon_color=E64A8C&amp;chart_color=F472B6" alt="Languages used in Syahla's public repositories" /></a>
 </div>
+
+[Explore my repositories and contributions](https://github.com/azariasyahla)
 
 <div align="center">
 
