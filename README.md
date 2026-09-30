@@ -76,7 +76,7 @@ with an IoU of **0.9235** and pixel accuracy of **0.9804**.
 
 ### 📝 EduDOExam
 
-I collaborated on **EduDOExam**, an online exam platform developed as a team project. The [backend repository](https://github.com/il4mb/EduDoexam-backend) is maintained by a teammate.
+I collaborated on **EduDOExam**, an online exam platform developed as a team project. Explore [my fork of the backend repository](https://github.com/azariasyahla/EduDoexam-backend), originally maintained by [il4mb](https://github.com/il4mb/EduDoexam-backend).
 
 ## 📈 GitHub Activity
 
