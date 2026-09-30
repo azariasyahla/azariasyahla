@@ -28,7 +28,7 @@ generation preparation.
 
 | Role | Focus |
 |---|---|
-| **Data Analyst Intern — PT Traktor Nusantara** | Spare-parts demand forecasting, inventory analysis, replenishment recommendations, and interactive dashboards |
+| **Data Analyst Intern — PT Traktor Nusantara(Astra International Tbk & Sumitomo Group)** | Spare-parts demand forecasting, inventory analysis, replenishment recommendations, and interactive dashboards |
 | **Data Scientist Intern — BPPK, Ministry of Finance** | OCR data-quality validation, automated pipelines, embedding evaluation, RAG preparation, and recommendation systems |
 
 ## 🧰 Tech Stack
