@@ -61,9 +61,6 @@ Streamlit dashboard.
 
 `Demand Forecasting` · `TSB` · `Random Forest` · `XGBoost` · `Inventory Analytics` · `Streamlit`
 
-> The production repository is private because operational company data and
-> internal business logic are protected.
-
 ###  Rice Leaf Disease Semantic Segmentation
 
 Evaluated **U-Net, PSPNet, and DeepLabV3+** for identifying diseased regions
