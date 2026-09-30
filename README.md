@@ -74,6 +74,10 @@ with an IoU of **0.9235** and pixel accuracy of **0.9804**.
 
 `Computer Vision` · `Semantic Segmentation` · `Deep Learning` · `TensorFlow` · `PyTorch`
 
+### 📝 EduDOExam
+
+I collaborated on **EduDOExam**, an online exam platform developed as a team project. The [backend repository](https://github.com/il4mb/EduDoexam-backend) is maintained by a teammate.
+
 ## 📈 GitHub Activity
 
 [Explore my repositories and contributions on GitHub](https://github.com/azariasyahla)
