@@ -1,12 +1,8 @@
 <div align="center">
-  <img src="assets/github-profile-banner.png" alt="Azaria Syahla — Data Analyst and Data Scientist" width="100%" />
+  <img src="./syahla-github-animated-banner.gif" alt="Hi, I'm Syahla — animated butterfly banner" width="100%" />
 </div>
 
 <div align="center">
-
-### Hi, I'm Syahla! ‧₊˚ ☁️⋅♡🪐༘⋆👋🏻
-
-**Data Analyst 🌸 Data Scientist 🌸 Turning data into meaningful decisions**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Azaria%20Syahla-18205D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azariasyahla/)
 [![Instagram](https://img.shields.io/badge/Instagram-@azariasyahla-EF7F9A?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/azariasyahla/)
@@ -74,14 +70,13 @@ Evaluated **U-Net, PSPNet, and DeepLabV3+** for identifying diseased regions
 on rice leaves. DeepLabV3+ achieved the strongest segmentation performance,
 with an IoU of **0.9235** and pixel accuracy of **0.9804**.
 
-`Computer Vision` · `Semantic Segmentation` · `Deep Learning` · `TensorFlow`
+[Read the published article](https://ejournal.unesa.ac.id/index.php/rapids/article/view/78173)
+
+`Computer Vision` · `Semantic Segmentation` · `Deep Learning` · `TensorFlow` · `PyTorch`
 
 ## 📈 GitHub Activity
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=azariasyahla&show_icons=true&hide_border=true&title_color=EF7F9A&icon_color=EF7F9A&text_color=435991&bg_color=00000000" alt="Syahla's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azariasyahla&layout=compact&hide_border=true&title_color=EF7F9A&text_color=435991&bg_color=00000000" alt="Syahla's most used languages" />
-</div>
+[Explore my repositories and contributions on GitHub](https://github.com/azariasyahla)
 
 <div align="center">
 
@@ -90,4 +85,3 @@ with an IoU of **0.9235** and pixel accuracy of **0.9804**.
 ![Profile views](https://komarev.com/ghpvc/?username=azariasyahla&color=ef7f9a&style=flat-square&label=profile+views)
 
 </div>
-
